@@ -1,6 +1,6 @@
 # Calculator
 
-## A simple calculator created with HTML/CSS and JavaScript.
+## A simple calculator created with HTML/CSS and JavaScript. I 
 
 
-(https://i.imgur.com/ArUhzRl.png)
+<img src="https://i.imgur.com/ArUhzRl.png" />
